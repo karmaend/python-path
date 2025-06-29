@@ -16,5 +16,3 @@ end = int(input("Enter the upper range: "))
 
 prime(start,end)
 
-
-

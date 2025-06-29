@@ -24,5 +24,7 @@ print(count)
 fruits.sort()
 print(fruits)
 
+#reverse the list
 fruits.reverse()
 print(fruits)
+
